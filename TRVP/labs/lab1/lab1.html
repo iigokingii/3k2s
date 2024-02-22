@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>lab1</title>
+</head>
+<body>
+    <h1>Lab1</h1>
+    <a href="https://www.belstu.by/">BSTU</a>
+    <div>
+        <button onclick="showBrowserInfo()">Information about browser</button>
+    </div>
+    <div id="info"></div>
+    <script>
+        function showBrowserInfo(){
+            var infoElement = document.getElementById("info");
+            infoElement.innerHTML = "Браузер: " + navigator.userAgent;
+            console.log("Hello World");
+        }
+    </script>
+</body>
+</html>
