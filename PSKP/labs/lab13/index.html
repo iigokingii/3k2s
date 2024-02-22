@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>lab11</title>
+</head>
+<body>
+    <H1>TEACHERS</H1>
+    <div style="margin-bottom: 10px">
+        <button id="GET">GET</button>
+        <button id="POST">POST</button>
+        <button id="PUT">PUT</button>
+        <button id="DELETE">DELETE</button>
+        <p id="ErrorMsg" style="color: red"></p>
+        <p id="SuccessMsg" style="color: green"></p>
+    </div>
+    <div>
+        <label>TEACHER</label><br />
+        <input type="text" id="TEACHER" />
+    </div>
+    <div>
+        <label>TEACHER_NAME</label><br />
+        <input type="text" id="TEACHER_NAME" />
+    </div>
+    <div>
+        <label>PULPIT</label><br />
+        <input type="text" id="PULPIT" />
+    </div>
+
+    <div id="data"></div>
+<script>
+    var teachers = [];
+    document.getElementById("GET").addEventListener('click',async()=> {
+        ClearSuccess();
+        const response = await fetch('/api/teachers', {
+            method: "GET",
+            headers: {
+                "Content-type": "application/json",
+                "Accept": "application/json"
+            }
+        })
+        if(response.ok){
+            teachers = await response.json();
+            let parrentDiv = document.getElementById("data");
+            DeleteTeachers();
+            teachers.forEach(teacher=>{
+                parrentDiv.append(CreateTeacherView(teacher));
+            })
+            DisplaySuccess('Данные отображены успешно');
+            ClearError();
+        }
+        else{
+            DisplayError("Error in getting data from server");
+        }
+    })
+
+    document.getElementById("POST").addEventListener('click',async()=>{
+        ClearSuccess();
+        let teacher = document.getElementById("TEACHER").value;
+        let tName = document.getElementById("TEACHER_NAME").value;
+        let tPulpit = document.getElementById("PULPIT").value;
+        if(teacher.trim()!==''&&tName.trim()!==''&&tPulpit.trim()!==''){
+            let data = {
+                "TEACHER":teacher,
+                "TEACHER_NAME":tName,
+                "PULPIT":tPulpit
+            }
+            const response = await fetch('api/teachers', {
+                method: "POST",
+                headers: {
+                    "Content-type": "application/json",
+                    "Accept": "application/json"
+                },
+                body:JSON.stringify(data)
+            })
+            if(response.ok){
+                DisplaySuccess('Данные успешно отправлены на сервер');
+                ClearError();
+            }
+            else{
+                const error = await response.text();
+                DisplayError(error);
+            }
+        }
+        else{
+            DisplayError("Fill all fields");
+        }
+    })
+    document.getElementById("PUT").addEventListener('click',async()=>{
+        ClearSuccess();
+        let teacher = document.getElementById("TEACHER").value;
+        let tName = document.getElementById("TEACHER_NAME").value;
+        let tFaculty = document.getElementById("PULPIT").value;
+        if(teacher.trim()!==''&&tName.trim()!==''&&tFaculty.trim()!==''){
+            let data = {
+                "TEACHER":teacher,
+                "TEACHER_NAME":tName,
+                "PULPIT":tFaculty
+            }
+            const response = await fetch('api/teachers', {
+                method: "PUT",
+                headers: {
+                    "Content-type": "application/json",
+                    "Accept": "application/json"
+                },
+                body:JSON.stringify(data)
+            })
+            if(response.ok){
+                DisplaySuccess('Данные успешно отправлены на сервер');
+                ClearError();
+            }
+            else{
+                const error = await response.text();
+                DisplayError(error);
+            }
+        }
+        else if(teacher.trim()!==''){
+            const findPulpit = teachers.filter(teach=>{
+                console.log(teach.TEACHER.trim());
+                console.log(teacher.trim());
+                if (teach.TEACHER.trim()===teacher.trim()) {
+                    return teach;
+                }
+            });
+            if(findPulpit.length!==0){
+                document.getElementById("TEACHER_NAME").value = findPulpit[0].TEACHER_NAME;
+                document.getElementById("PULPIT").value= findPulpit[0].PULPIT;
+            }
+            DisplaySuccess("Данные дополнены для изменения");
+        }
+        else{
+            DisplayError("Fill all fields");
+        }
+    })
+
+
+
+    document.getElementById("DELETE").addEventListener('click',async()=>{
+        ClearSuccess();
+        let teacher = document.getElementById("TEACHER").value;
+        if(teacher.trim()!==''){
+            const response = await fetch(`api/teachers/${teacher}`, {
+                method: "DELETE",
+                headers: {
+                    "Content-type": "application/json",
+                    "Accept": "application/json"
+                }
+            })
+            if(response.ok){
+                DisplaySuccess('Данные успешно удалены');
+                ClearError();
+            }
+            else{
+                const error = await response.text();
+                DisplayError(error);
+            }
+        }
+        else{
+            DisplayError("Fill pulpit field");
+        }
+    })
+
+
+
+    function CreateTeacherView(teacher){
+        let div = document.createElement('div');
+            let pTeacher = document.createElement('p');
+            pTeacher.innerHTML = `${teacher.TEACHER} | ${teacher.TEACHER_NAME} | ${teacher.PULPIT}`;
+        div.append(pTeacher);
+        return div;
+    }
+    function DeleteTeachers(){
+        let filmsDiv = document.getElementById('data');
+        let pulpits = filmsDiv.querySelectorAll('p');
+        pulpits.forEach(p=>{
+            p.remove();
+        })
+    }
+    function DisplayError(msg){
+        document.getElementById("ErrorMsg").innerHTML = msg;
+    }
+    function ClearError(){
+        document.getElementById("ErrorMsg").innerHTML = "";
+    }
+
+    function DisplaySuccess(msg){
+        document.getElementById("SuccessMsg").innerHTML = msg;
+    }
+    function ClearSuccess(){
+        document.getElementById("SuccessMsg").innerHTML = "";
+    }
+</script>
+</body>
+</html>
