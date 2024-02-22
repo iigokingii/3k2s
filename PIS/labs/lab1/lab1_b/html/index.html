@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>WebSocket App</title>
+    <script type="text/javascript">
+        var webSocket;
+
+        function startWebSocket() {
+            webSocket = new WebSocket("ws://localhost:5126/ws");
+            webSocket.onmessage = function (event) {
+                var messageContainer = document.getElementById('messageContainer');
+                var messageElement = document.createElement('p');
+                messageElement.textContent = event.data;
+                messageContainer.appendChild(messageElement);
+            };
+        }
+
+        function stopWebSocket() {
+            if (webSocket) {
+                webSocket.close();
+            }
+        }
+    </script>
+</head>
+<body>
+    <button onclick="startWebSocket()">Пуск</button>
+    <button onclick="stopWebSocket()">Стоп</button>
+    <div id="messageContainer"></div>
+</body>
+</html>
