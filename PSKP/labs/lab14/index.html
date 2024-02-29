@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab14</title>
+</head>
+<body>
+    <h1>All pulpits from DB</h1>
+    <div id="wrapper">
+        <table id="container">
+            <tr>
+                <th>Pulpit</th>
+                <th>Pulpit name</th>
+                <th>Faculty</th>
+                <th>Teacher number</th>
+            </tr>
+        </table>
+    </div>
+    <div id="button_container">
+
+    </div>
+</body>
+    <script>
+        document.addEventListener("DOMContentLoaded", getPulpits);
+        let offset = 0;
+        let page = 0;
+        async function getPulpits(){
+            const response1 = await fetch('/api/pulpits', {
+                method: "GET",
+                headers: {
+                    "Content-type": "application/json",
+                    "Accept": "application/json"
+                }
+            })
+            const response2 = await fetch('/api/getteachercount', {
+                method: "GET",
+                headers: {
+                    "Content-type": "application/json",
+                    "Accept": "application/json"
+                }
+            })
+            if(response1.ok&&response2.ok){
+                let pulpits = await response1.json();
+                let teacherCount = await response2.json()
+                DisplayPulpits(pulpits,teacherCount);
+            }
+            else{
+                console.log("Error in getting data from server");
+            }
+        }
+        function DeletePulpits(){
+            const table = document.getElementById('container');
+
+            const rows = table.getElementsByTagName('tr');
+            const rowsToDelete = Array.from(rows).slice(1);
+
+            rowsToDelete.forEach((row) => {
+                row.remove();
+            });
+        }
+        function DeleteButtons(){
+            const container = document.getElementById("button_container");
+            let pulpitsButton = container.querySelectorAll('button');
+            pulpitsButton.forEach(p=>{
+                p.remove();
+                page = 0;
+            })
+
+        }
+
+
+        function DisplayPulpits(pulpits,teachers){
+            let container = document.getElementById("container");
+            for(let i = offset;i<pulpits.length;i++){
+                if(i<10+offset){
+                    let teacherCount = teachers.find(teacher=>teacher.pulpit===pulpits[i].pulpit);
+                    let row = document.createElement("tr");
+                        let column1 = document.createElement("td");
+                        column1.innerHTML = pulpits[i].pulpit;
+                        let column2 = document.createElement("td");
+                        column2.innerHTML = pulpits[i].pulpit_name;
+                        let column3 = document.createElement("td");
+                        column3.innerHTML = pulpits[i].faculty;
+                        let column4 = document.createElement("td");
+                        if(teacherCount!==undefined)
+                            column4.innerHTML = teacherCount._count._all;
+                        else
+                            column4.innerHTML = "0";
+                    row.append(column1,column2,column3,column4);
+                    container.append(row);
+                }
+                if(i%10===0||i===0){
+                    page++;
+                    let buttonContainer = document.getElementById("button_container");
+                    let button = document.createElement("button");
+                    button.innerHTML = page.toString();
+                    button.setAttribute('data-page', page); // Установка значения через атрибут data-page
+                    button.addEventListener('click', (e) => {
+                        page = parseInt(e.target.getAttribute('data-page')); // Получение значения через атрибут data-page и преобразование в число
+                        offset = page * 10 - 10;
+                        DeletePulpits();
+                        DeleteButtons();
+                        getPulpits();
+                    });
+                    buttonContainer.append(button);
+                }
+            }
+            /*if(pulpits.length<10){
+                pulpits.map(pulpit=>{
+                    let row = document.createElement("tr");
+                    let column1 = document.createElement("td");
+                    column1.innerHTML = pulpit.pulpit;
+                    let column2 = document.createElement("td");
+                    column2.innerHTML = pulpit.pulpit_name;
+                    let column3 = document.createElement("td");
+                    column3.innerHTML = pulpit.faculty;
+                    row.append(column1,column2,column3);
+
+                    container.append(row);
+                })
+            }*/
+
+        }
+    </script>
+</html>
