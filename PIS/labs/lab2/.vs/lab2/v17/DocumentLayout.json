@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3k2s\\PIS\\labs\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|solutionrelative:lab2_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\lab2_5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\lab2_5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_3\\docs\\tests.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|solutionrelative:lab2_3\\docs\\tests.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\views\\parm\\uri04.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\views\\parm\\uri04.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\controllers\\parmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\controllers\\parmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\views\\parm\\uri03.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\views\\parm\\uri03.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\views\\parm\\uri02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\views\\parm\\uri02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\views\\parm\\uri01.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\views\\parm\\uri01.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\views\\parm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\views\\parm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_3\\views\\start\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|solutionrelative:lab2_3\\views\\start\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0ECD4AA-7446-47B1-A9FC-BFEDC6B9031C}|lab4_2\\lab4_2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab4_2\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0ECD4AA-7446-47B1-A9FC-BFEDC6B9031C}|lab4_2\\lab4_2.csproj|solutionrelative:lab4_2\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0ECD4AA-7446-47B1-A9FC-BFEDC6B9031C}|lab4_2\\lab4_2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0ECD4AA-7446-47B1-A9FC-BFEDC6B9031C}|lab4_2\\lab4_2.csproj|solutionrelative:lab4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|solutionrelative:lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|solutionrelative:lab2_3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_3\\docs\\tests.http||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|solutionrelative:lab2_3\\docs\\tests.http||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_3\\lab2_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|solutionrelative:lab2_3\\lab2_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_3\\controllers\\startcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|solutionrelative:lab2_3\\controllers\\startcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_3\\views\\start\\two.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|solutionrelative:lab2_3\\views\\start\\two.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_3\\views\\start\\three.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|solutionrelative:lab2_3\\views\\start\\three.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_3\\views\\start\\one.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|solutionrelative:lab2_3\\views\\start\\one.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|solutionrelative:lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2E6EEB-E8D8-4EA1-86C6-8841144A10E0}|lab2_2\\lab2_2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2E6EEB-E8D8-4EA1-86C6-8841144A10E0}|lab2_2\\lab2_2.csproj|solutionrelative:lab2_2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2E6EEB-E8D8-4EA1-86C6-8841144A10E0}|lab2_2\\lab2_2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2E6EEB-E8D8-4EA1-86C6-8841144A10E0}|lab2_2\\lab2_2.csproj|solutionrelative:lab2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|solutionrelative:lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|solutionrelative:lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Program.cs",
+              "RelativeDocumentMoniker": "lab2_5\\Program.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Program.cs",
+              "RelativeToolTip": "lab2_5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:29:43.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Uri01.cshtml",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Views\\Parm\\Uri01.cshtml",
+              "RelativeDocumentMoniker": "lab2_5\\Views\\Parm\\Uri01.cshtml",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Views\\Parm\\Uri01.cshtml",
+              "RelativeToolTip": "lab2_5\\Views\\Parm\\Uri01.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T16:23:49.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Views\\Parm\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab2_5\\Views\\Parm\\Index.cshtml",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Views\\Parm\\Index.cshtml",
+              "RelativeToolTip": "lab2_5\\Views\\Parm\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T16:23:29.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParmController.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Controllers\\ParmController.cs",
+              "RelativeDocumentMoniker": "lab2_5\\Controllers\\ParmController.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Controllers\\ParmController.cs",
+              "RelativeToolTip": "lab2_5\\Controllers\\ParmController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:20:40.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab2_5",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\lab2_5.csproj",
+              "RelativeDocumentMoniker": "lab2_5\\lab2_5.csproj",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\lab2_5.csproj",
+              "RelativeToolTip": "lab2_5\\lab2_5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-29T16:20:13.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Views\\Start\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab2_3\\Views\\Start\\Index.cshtml",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Views\\Start\\Index.cshtml",
+              "RelativeToolTip": "lab2_3\\Views\\Start\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T14:36:08.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab4_2\\Program.cs",
+              "RelativeDocumentMoniker": "lab4_2\\Program.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab4_2\\Program.cs",
+              "RelativeToolTip": "lab4_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:16:48.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tests.http",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Docs\\Tests.http",
+              "RelativeDocumentMoniker": "lab2_3\\Docs\\Tests.http",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Docs\\Tests.http",
+              "RelativeToolTip": "lab2_3\\Docs\\Tests.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-29T15:58:17.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Program.cs",
+              "RelativeDocumentMoniker": "lab2_3\\Program.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Program.cs",
+              "RelativeToolTip": "lab2_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:33:39.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Uri02.cshtml",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Views\\Parm\\Uri02.cshtml",
+              "RelativeDocumentMoniker": "lab2_5\\Views\\Parm\\Uri02.cshtml",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Views\\Parm\\Uri02.cshtml",
+              "RelativeToolTip": "lab2_5\\Views\\Parm\\Uri02.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T16:24:01.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Uri03.cshtml",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Views\\Parm\\Uri03.cshtml",
+              "RelativeDocumentMoniker": "lab2_5\\Views\\Parm\\Uri03.cshtml",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Views\\Parm\\Uri03.cshtml",
+              "RelativeToolTip": "lab2_5\\Views\\Parm\\Uri03.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T16:24:15.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Uri04.cshtml",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Views\\Parm\\Uri04.cshtml",
+              "RelativeDocumentMoniker": "lab2_5\\Views\\Parm\\Uri04.cshtml",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Views\\Parm\\Uri04.cshtml",
+              "RelativeToolTip": "lab2_5\\Views\\Parm\\Uri04.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T16:24:37.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "lab2_3\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "lab2_3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-29T15:09:16.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tests.http",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Docs\\Tests.http",
+              "RelativeDocumentMoniker": "lab2_3\\Docs\\Tests.http",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Docs\\Tests.http",
+              "RelativeToolTip": "lab2_3\\Docs\\Tests.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-29T15:02:02.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "lab2_3.csproj",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\lab2_3.csproj",
+              "RelativeDocumentMoniker": "lab2_3\\lab2_3.csproj",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\lab2_3.csproj",
+              "RelativeToolTip": "lab2_3\\lab2_3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-29T15:10:36.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab4_2\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "lab4_2\\Controllers\\StatusController.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab4_2\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "lab4_2\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:12:32.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "lab2",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\lab2.csproj",
+              "RelativeDocumentMoniker": "lab2\\lab2.csproj",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\lab2.csproj",
+              "RelativeToolTip": "lab2\\lab2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-29T16:01:00.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Three.cshtml",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Views\\Start\\Three.cshtml",
+              "RelativeDocumentMoniker": "lab2_3\\Views\\Start\\Three.cshtml",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Views\\Start\\Three.cshtml",
+              "RelativeToolTip": "lab2_3\\Views\\Start\\Three.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T14:39:03.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Two.cshtml",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Views\\Start\\Two.cshtml",
+              "RelativeDocumentMoniker": "lab2_3\\Views\\Start\\Two.cshtml",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Views\\Start\\Two.cshtml",
+              "RelativeToolTip": "lab2_3\\Views\\Start\\Two.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T14:38:49.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "One.cshtml",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Views\\Start\\One.cshtml",
+              "RelativeDocumentMoniker": "lab2_3\\Views\\Start\\One.cshtml",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Views\\Start\\One.cshtml",
+              "RelativeToolTip": "lab2_3\\Views\\Start\\One.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T14:38:39.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StartController.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Controllers\\StartController.cs",
+              "RelativeDocumentMoniker": "lab2_3\\Controllers\\StartController.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Controllers\\StartController.cs",
+              "RelativeToolTip": "lab2_3\\Controllers\\StartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:34:53.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lab2_2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lab2_2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:20:33.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2_2\\Program.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_2\\Program.cs",
+              "RelativeToolTip": "lab2_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:19:39.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lab2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T14:12:43.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\appsettings.json",
+              "RelativeDocumentMoniker": "lab2\\appsettings.json",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\appsettings.json",
+              "RelativeToolTip": "lab2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-29T13:57:04.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lab2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lab2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:52:27.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:49:29.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

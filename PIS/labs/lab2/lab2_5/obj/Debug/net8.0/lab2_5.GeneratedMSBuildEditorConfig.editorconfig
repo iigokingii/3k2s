@@ -1,0 +1,39 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = lab2_5
+build_property.RootNamespace = lab2_5
+build_property.ProjectDir = D:\3k2s\PIS\labs\lab2\lab2_5\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\3k2s\PIS\labs\lab2\lab2_5
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/3k2s/PIS/labs/lab2/lab2_5/Views/Parm/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFybVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3k2s/PIS/labs/lab2/lab2_5/Views/Parm/Uri01.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFybVxVcmkwMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3k2s/PIS/labs/lab2/lab2_5/Views/Parm/Uri02.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFybVxVcmkwMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3k2s/PIS/labs/lab2/lab2_5/Views/Parm/Uri03.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFybVxVcmkwMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3k2s/PIS/labs/lab2/lab2_5/Views/Parm/Uri04.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFybVxVcmkwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
