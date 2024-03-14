@@ -1,0 +1,23 @@
+<div class="wrapper">
+    <form class="users">
+        {{#each users}}
+            {{> disabledrowbutton}}
+        {{/each}}
+    </form>
+        <form class="add-form">
+            <input type="hidden" id="updateid" value="{{user.id}}">
+            <div class="input-wrapper">
+                <label>fio</label>
+                <input id="fio" type="text" value="{{user.fio}}">
+            </div>
+            <div class="input-wrapper">
+                <label>phone</label>
+                <input id="phone" type="text" value="{{user.phone}}">
+            </div>
+        </form>
+        <div class="clicked-buttons">
+            <button class="updated-button" id="changeButton">Изменить</button>
+            <button class="updated-button" id="deleteButton">Удалить</button>
+            <button class="updated-button" id="declineButton">Отказаться</button>
+        </div>
+</div>

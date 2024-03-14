@@ -1,0 +1,34 @@
+<div class="wrapper">
+    <form class="users">
+        {{#if disabled}}
+            {{#each users}}
+                {{> disabledrowbutton}}
+            {{/each}}
+        {{/if}}
+        {{#unless disabled}}
+            {{#each users}}
+                {{> rowbutton}}
+            {{/each}}
+        {{/unless}}
+    </form>
+    {{#if clicked}}
+        <form class="add-form" action="adduser" method="post">
+            <div class="input-wrapper">
+                <label>fio</label>
+                <input id="fio" type="text">
+            </div>
+            <div class="input-wrapper">
+                <label>phone</label>
+                <input id="phone" type="text">
+            </div>
+
+        </form>
+        <div class="clicked-buttons">
+            <button class="clicked-button" id="sendButton">Добавить</button>
+            <button class="clicked-button" id="declineButton">Отказаться</button>
+        </div>
+    {{/if}}
+    {{#unless clicked}}
+        <button class="add-button" id="addButton">Добавить</button>
+    {{/unless}}
+</div>

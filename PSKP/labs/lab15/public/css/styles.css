@@ -1,0 +1,66 @@
+.link-with-columns {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+}
+.column {
+    flex: 1;
+    padding: 10px;
+    background-color: lightgray;
+    margin-bottom: 10px;
+    color: black;
+}
+.wrapper{
+    width: 550px;
+    padding: 10px;
+    margin-left: 100px;
+}
+.wrapper .users{
+    margin-left: 20px;
+    border: 1px solid grey;
+    width: 500px;
+    max-height: 230px;
+    overflow-y: scroll;
+    padding: 5px;
+}
+.add-form{
+    margin-left: 20px;
+}
+.add-form {
+    margin-left: 20px;
+    margin-top:10px ;
+}
+.add-form input{
+    height: 25px;
+
+}
+.add-button{
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 8px;
+    width: 512px;
+}
+.add-button:hover   {
+    cursor: pointer;
+}
+.clicked-buttons{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.clicked-button{
+    width: 47.9%;
+    padding: 8px;
+}
+.input-wrapper{
+    display: inline-block;
+}
+.link-with-columns-disabled{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    pointer-events: none;
+}
+.updated-button{
+    width: 31.5%;
+    padding: 8px;
+}
