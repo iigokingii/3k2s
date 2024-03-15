@@ -12,6 +12,13 @@ app.set('views', path.join(__dirname, 'views'));
 app.use(express.static(path.join(__dirname, 'public')))
 const PATH_JSON = path.join(__dirname, 'DB.json');
 hbs.registerPartials(__dirname + '/views/partials');
+hbs.registerHelper("CreateDeclineButton", function(){
+    let button = document.createElement("button");
+    button.className = "updated-button";
+    button.id = "declineButton";
+    button.innerText = "Отказаться";
+    document.body.appendChild(button);
+});
 
 let users = [];
 
