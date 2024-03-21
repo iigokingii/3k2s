@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "zx137YN9gL+aUOqCBUPrYqVttz/13VdwK0xR1wka7Nb9Yq8MezkiMEMZesL6tQJY6psK0gNgfzfsmvAKljvfPw==",
-  "success": true,
+  "dgSpecHash": "lnvRJF4yBVOjkjYO1/2VjGFwG4sv5ZHN5gRviC0LKi44wSIGqleBsHV5tYFZ9L6eUmKtPuoYvSQ0gQgejvc2Nw==",
+  "success": false,
   "projectFilePath": "D:\\3k2s\\PIS\\labs\\lab1\\lab1\\lab1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
-  ],
-  "logs": []
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
+      "libraryId": "Newtonsoft.Json"
+    }
+  ]
 }

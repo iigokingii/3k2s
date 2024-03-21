@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "QKgIdeD6SvzvvfNzvp3GEFYeM2oK3ewOpc2Tnuamo+I=",
+  "Hash": "qbiBV19AmnXI4m9USAEsmMV9ZXEp2MtZ0NXDxESW5ms=",
   "Source": "lab2",
   "BasePath": "_content/lab2",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "lab2\\wwwroot",
+      "Source": "lab2",
+      "ContentRoot": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\wwwroot\\",
+      "BasePath": "_content/lab2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\wwwroot\\Index.html",
+      "SourceId": "lab2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\wwwroot\\",
+      "BasePath": "_content/lab2",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
 }

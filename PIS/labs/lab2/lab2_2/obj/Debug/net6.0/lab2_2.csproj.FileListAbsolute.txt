@@ -5,7 +5,6 @@ D:\3k2s\PIS\labs\lab2\lab2_2\bin\Debug\net6.0\lab2_2.deps.json
 D:\3k2s\PIS\labs\lab2\lab2_2\bin\Debug\net6.0\lab2_2.runtimeconfig.json
 D:\3k2s\PIS\labs\lab2\lab2_2\bin\Debug\net6.0\lab2_2.dll
 D:\3k2s\PIS\labs\lab2\lab2_2\bin\Debug\net6.0\lab2_2.pdb
-D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\lab2_2.csproj.AssemblyReference.cache
 D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\lab2_2.GeneratedMSBuildEditorConfig.editorconfig
 D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\lab2_2.AssemblyInfoInputs.cache
 D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\lab2_2.AssemblyInfo.cs
@@ -19,3 +18,9 @@ D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\refint\lab2_2.dll
 D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\lab2_2.pdb
 D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\lab2_2.genruntimeconfig.cache
 D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\ref\lab2_2.dll
+D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\lab2_2.sourcelink.json
+D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\staticwebassets\msbuild.lab2_2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\staticwebassets\msbuild.build.lab2_2.props
+D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lab2_2.props
+D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lab2_2.props
+D:\3k2s\PIS\labs\lab2\lab2_2\obj\Debug\net6.0\staticwebassets.pack.json
