@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.lab2.props",
+      "PackagePath": "build\\lab2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.lab2.props",
+      "PackagePath": "buildMultiTargeting\\lab2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.lab2.props",
+      "PackagePath": "buildTransitive\\lab2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.lab2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
