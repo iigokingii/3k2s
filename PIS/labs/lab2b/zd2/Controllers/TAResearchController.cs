@@ -5,7 +5,7 @@ namespace ASPVMVC07.Controllers;
 [Route("it")]
 public class TAResearchController : Controller
 {
-    [HttpGet("{n:int}/{str}")]
+    [AcceptVerbs("GET"), Route("{n:int}/{str}")]
     public IActionResult M04(int? n, string? str)
     {
         try
@@ -36,7 +36,7 @@ public class TAResearchController : Controller
         }
     }
 
-    [AcceptVerbs("DELETE", "GET"), Route("{f:float}/{str::length(2, 5)}")]
+    [AcceptVerbs("DELETE", "GET"), Route("{f:float}/{str::length(2, 5)}", Order = 1)]
     public IActionResult M06(float? f, string? str)
     {
         try
@@ -52,7 +52,7 @@ public class TAResearchController : Controller
         }
     }
 
-    [HttpPut("{letters::letters}/{n::range(100, 200)}")]
+    [HttpPut("{letters::lettersmax}/{n::range(100, 200)}")]
     public IActionResult M07(string? letters, int? n)
     {
         try

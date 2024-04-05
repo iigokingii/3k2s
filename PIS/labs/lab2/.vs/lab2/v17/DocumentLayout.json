@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\3k2s\\PIS\\labs\\lab2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\controllers\\parmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\controllers\\parmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF7E326-243F-452E-A6C0-A147414A2851}|lab2New\\lab2New.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF7E326-243F-452E-A6C0-A147414A2851}|lab2New\\lab2New.csproj|solutionrelative:lab2new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF7E326-243F-452E-A6C0-A147414A2851}|lab2New\\lab2New.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2new\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BF7E326-243F-452E-A6C0-A147414A2851}|lab2New\\lab2New.csproj|solutionrelative:lab2new\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{B0ECD4AA-7446-47B1-A9FC-BFEDC6B9031C}|lab4_2\\lab4_2.csproj|solutionrelative:lab4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BF7E326-243F-452E-A6C0-A147414A2851}|lab2New\\lab2New.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BF7E326-243F-452E-A6C0-A147414A2851}|lab2New\\lab2New.csproj|solutionrelative:lab2new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|solutionrelative:lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BF7E326-243F-452E-A6C0-A147414A2851}|lab2New\\lab2New.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2new\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2BF7E326-243F-452E-A6C0-A147414A2851}|lab2New\\lab2New.csproj|solutionrelative:lab2new\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{708DA759-CBE1-48B2-A285-FEBDBDD60A7C}|lab2\\lab2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2BF7E326-243F-452E-A6C0-A147414A2851}|lab2New\\lab2New.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2new\\lab2new.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2BF7E326-243F-452E-A6C0-A147414A2851}|lab2New\\lab2New.csproj|solutionrelative:lab2new\\lab2new.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\controllers\\parmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\controllers\\parmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0ECD4AA-7446-47B1-A9FC-BFEDC6B9031C}|lab4_2\\lab4_2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab4_2\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -101,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C2E6EEB-E8D8-4EA1-86C6-8841144A10E0}|lab2_2\\lab2_2.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C2E6EEB-E8D8-4EA1-86C6-8841144A10E0}|lab2_2\\lab2_2.csproj|solutionrelative:lab2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4BBC0CD-BE1E-4CC5-B270-E182390A4E92}|lab2_5\\lab2_5.csproj|solutionrelative:lab2_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCCE3818-FB29-4BFE-BD3F-466A3414606E}|lab2_3\\lab2_3.csproj|d:\\3k2s\\pis\\labs\\lab2\\lab2_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -186,48 +186,12 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2New\\Program.cs",
               "RelativeDocumentMoniker": "lab2New\\Program.cs",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2New\\Program.cs*",
-              "RelativeToolTip": "lab2New\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2New\\Program.cs",
+              "RelativeToolTip": "lab2New\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T07:43:54.178Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Tests.http",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Docs\\Tests.http",
-              "RelativeDocumentMoniker": "lab2_3\\Docs\\Tests.http",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Docs\\Tests.http",
-              "RelativeToolTip": "lab2_3\\Docs\\Tests.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-03-01T06:43:04.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "lab2.csproj",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\lab2.csproj",
-              "RelativeDocumentMoniker": "lab2\\lab2.csproj",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\lab2.csproj",
-              "RelativeToolTip": "lab2\\lab2.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-29T16:01:00.307Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.html",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\wwwroot\\Index.html",
-              "RelativeDocumentMoniker": "lab2\\wwwroot\\Index.html",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\wwwroot\\Index.html",
-              "RelativeToolTip": "lab2\\wwwroot\\Index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-03-01T07:37:09.062Z"
             },
             {
               "$type": "Document",
@@ -243,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "lab2New.csproj",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2New\\lab2New.csproj",
               "RelativeDocumentMoniker": "lab2New\\lab2New.csproj",
@@ -255,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab4_2\\Program.cs",
               "RelativeDocumentMoniker": "lab4_2\\Program.cs",
@@ -263,12 +227,11 @@
               "RelativeToolTip": "lab4_2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T16:16:48.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T16:16:48.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "lab2\\Controllers\\HomeController.cs",
@@ -276,12 +239,11 @@
               "RelativeToolTip": "lab2\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T13:52:27.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T13:52:27.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\Program.cs",
               "RelativeDocumentMoniker": "lab2\\Program.cs",
@@ -289,12 +251,86 @@
               "RelativeToolTip": "lab2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T13:49:29.834Z",
+              "WhenOpened": "2024-02-29T13:49:29.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test.http",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\test.http",
+              "RelativeDocumentMoniker": "lab2_5\\test.http",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\test.http",
+              "RelativeToolTip": "lab2_5\\test.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-01T06:40:09.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Program.cs",
+              "RelativeDocumentMoniker": "lab2_5\\Program.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Program.cs",
+              "RelativeToolTip": "lab2_5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:29:43.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParmController.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Controllers\\ParmController.cs",
+              "RelativeDocumentMoniker": "lab2_5\\Controllers\\ParmController.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Controllers\\ParmController.cs",
+              "RelativeToolTip": "lab2_5\\Controllers\\ParmController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:20:40.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.html",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\wwwroot\\Index.html",
+              "RelativeDocumentMoniker": "lab2\\wwwroot\\Index.html",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\wwwroot\\Index.html",
+              "RelativeToolTip": "lab2\\wwwroot\\Index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-01T07:37:09.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "lab2.csproj",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\lab2.csproj",
+              "RelativeDocumentMoniker": "lab2\\lab2.csproj",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\lab2.csproj",
+              "RelativeToolTip": "lab2\\lab2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-29T16:01:00.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tests.http",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Docs\\Tests.http",
+              "RelativeDocumentMoniker": "lab2_3\\Docs\\Tests.http",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Docs\\Tests.http",
+              "RelativeToolTip": "lab2_3\\Docs\\Tests.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-01T06:43:04.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "StartController.cs",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\Controllers\\StartController.cs",
               "RelativeDocumentMoniker": "lab2_3\\Controllers\\StartController.cs",
@@ -306,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "lab2_2.csproj",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_2\\lab2_2.csproj",
               "RelativeDocumentMoniker": "lab2_2\\lab2_2.csproj",
@@ -318,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "lab2_5.csproj",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\lab2_5.csproj",
               "RelativeDocumentMoniker": "lab2_5\\lab2_5.csproj",
@@ -330,19 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "test.http",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\test.http",
-              "RelativeDocumentMoniker": "lab2_5\\test.http",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\test.http",
-              "RelativeToolTip": "lab2_5\\test.http",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAYwCkAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-03-01T06:40:09.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "StatusController.cs",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab4_2\\Controllers\\StatusController.cs",
               "RelativeDocumentMoniker": "lab4_2\\Controllers\\StatusController.cs",
@@ -354,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "test.http",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab4_2\\test.http",
               "RelativeDocumentMoniker": "lab4_2\\test.http",
@@ -366,19 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ParmController.cs",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Controllers\\ParmController.cs",
-              "RelativeDocumentMoniker": "lab2_5\\Controllers\\ParmController.cs",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Controllers\\ParmController.cs",
-              "RelativeToolTip": "lab2_5\\Controllers\\ParmController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T16:20:40.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "lab4_2.csproj",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab4_2\\lab4_2.csproj",
               "RelativeDocumentMoniker": "lab4_2\\lab4_2.csproj",
@@ -390,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "lab2_2\\Controllers\\HomeController.cs",
@@ -402,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "lab2_3.csproj",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_3\\lab2_3.csproj",
               "RelativeDocumentMoniker": "lab2_3\\lab2_3.csproj",
@@ -414,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab4_2\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "lab4_2\\Properties\\launchSettings.json",
@@ -426,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_2\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "lab2_2\\Properties\\launchSettings.json",
@@ -438,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_2\\appsettings.json",
               "RelativeDocumentMoniker": "lab2_2\\appsettings.json",
@@ -450,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_2\\Program.cs",
               "RelativeDocumentMoniker": "lab2_2\\Program.cs",
@@ -462,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "lab2",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\lab2.csproj",
               "RelativeDocumentMoniker": "lab2\\lab2.csproj",
@@ -473,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2\\appsettings.json",
               "RelativeDocumentMoniker": "lab2\\appsettings.json",
@@ -530,18 +542,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-29T16:23:49.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Program.cs",
-              "RelativeDocumentMoniker": "lab2_5\\Program.cs",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2\\lab2_5\\Program.cs",
-              "RelativeToolTip": "lab2_5\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T16:29:43.336Z"
             },
             {
               "$type": "Document",

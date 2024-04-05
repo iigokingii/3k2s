@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "D:\\3k2s\\PIS\\labs\\lab2b\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A4EC29D-3A37-4018-894B-B496C28D71B8}|zd1_1\\zd1_1.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A4EC29D-3A37-4018-894B-B496C28D71B8}|zd1_1\\zd1_1.csproj|solutionrelative:zd1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd2\\controllers\\taresearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|solutionrelative:zd2\\controllers\\taresearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A4EC29D-3A37-4018-894B-B496C28D71B8}|zd1_1\\zd1_1.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd1_1\\controllers\\tmresearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A4EC29D-3A37-4018-894B-B496C28D71B8}|zd1_1\\zd1_1.csproj|solutionrelative:zd1_1\\controllers\\tmresearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55B51B80-F437-428E-B7EA-60DB78E80A26}|zd1\\zd1.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd1\\controllers\\tresearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55B51B80-F437-428E-B7EA-60DB78E80A26}|zd1\\zd1.csproj|solutionrelative:zd1\\controllers\\tresearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|solutionrelative:zd2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4EC29D-3A37-4018-894B-B496C28D71B8}|zd1_1\\zd1_1.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4EC29D-3A37-4018-894B-B496C28D71B8}|zd1_1\\zd1_1.csproj|solutionrelative:zd1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd2\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|solutionrelative:zd2\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd2\\constrains\\emailrouteconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|solutionrelative:zd2\\constrains\\emailrouteconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd2\\zd2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|solutionrelative:zd2\\zd2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|solutionrelative:zd2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd2\\constrains\\lettersmaxrouteconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|solutionrelative:zd2\\constrains\\lettersmaxrouteconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55B51B80-F437-428E-B7EA-60DB78E80A26}|zd1\\zd1.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55B51B80-F437-428E-B7EA-60DB78E80A26}|zd1\\zd1.csproj|solutionrelative:zd1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55B51B80-F437-428E-B7EA-60DB78E80A26}|zd1\\zd1.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd1\\views\\tresearch\\mview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55B51B80-F437-428E-B7EA-60DB78E80A26}|zd1\\zd1.csproj|solutionrelative:zd1\\views\\tresearch\\mview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55B51B80-F437-428E-B7EA-60DB78E80A26}|zd1\\zd1.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -29,22 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{55B51B80-F437-428E-B7EA-60DB78E80A26}|zd1\\zd1.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{55B51B80-F437-428E-B7EA-60DB78E80A26}|zd1\\zd1.csproj|solutionrelative:zd1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd2\\controllers\\taresearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|solutionrelative:zd2\\controllers\\taresearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd2\\constrains\\lettersrouteconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|solutionrelative:zd2\\constrains\\lettersrouteconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd2\\constrains\\emailrouteconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|solutionrelative:zd2\\constrains\\emailrouteconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|d:\\3k2s\\pis\\labs\\lab2b\\zd2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A275F15-722E-43C3-90AF-C921DA5AE7E2}|zd2\\zd2.csproj|solutionrelative:zd2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,59 +78,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "zd1\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "zd1\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-21T16:50:34.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.js",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "zd1\\wwwroot\\js\\site.js",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "zd1\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-21T16:50:32.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1_1\\Program.cs",
-              "RelativeDocumentMoniker": "zd1_1\\Program.cs",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1_1\\Program.cs",
-              "RelativeToolTip": "zd1_1\\Program.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAowHUAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:44:15.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TMResearchController.cs",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1_1\\Controllers\\TMResearchController.cs",
               "RelativeDocumentMoniker": "zd1_1\\Controllers\\TMResearchController.cs",
               "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1_1\\Controllers\\TMResearchController.cs",
               "RelativeToolTip": "zd1_1\\Controllers\\TMResearchController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:43:49.159Z",
+              "WhenOpened": "2024-04-04T21:30:43.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1_1\\Program.cs",
+              "RelativeDocumentMoniker": "zd1_1\\Program.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1_1\\Program.cs",
+              "RelativeToolTip": "zd1_1\\Program.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAG4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T07:41:58.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Program.cs",
+              "RelativeDocumentMoniker": "zd2\\Program.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Program.cs",
+              "RelativeToolTip": "zd2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T07:49:28.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TAResearchController.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Controllers\\TAResearchController.cs",
+              "RelativeDocumentMoniker": "zd2\\Controllers\\TAResearchController.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Controllers\\TAResearchController.cs",
+              "RelativeToolTip": "zd2\\Controllers\\TAResearchController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:23:44.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test.http",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\test.http",
+              "RelativeDocumentMoniker": "zd2\\test.http",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\test.http",
+              "RelativeToolTip": "zd2\\test.http",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-29T06:39:16.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "zd2.csproj",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\zd2.csproj",
+              "RelativeDocumentMoniker": "zd2\\zd2.csproj",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\zd2.csproj",
+              "RelativeToolTip": "zd2\\zd2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T07:13:03.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailRouteConstraint.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Constrains\\EmailRouteConstraint.cs",
+              "RelativeDocumentMoniker": "zd2\\Constrains\\EmailRouteConstraint.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Constrains\\EmailRouteConstraint.cs",
+              "RelativeToolTip": "zd2\\Constrains\\EmailRouteConstraint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:23:44.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1\\Program.cs",
               "RelativeDocumentMoniker": "zd1\\Program.cs",
@@ -134,85 +173,55 @@
               "RelativeToolTip": "zd1\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:23:44.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TResearchController.cs",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1\\Controllers\\TResearchController.cs",
-              "RelativeDocumentMoniker": "zd1\\Controllers\\TResearchController.cs",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1\\Controllers\\TResearchController.cs",
-              "RelativeToolTip": "zd1\\Controllers\\TResearchController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:23:44.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MView.cshtml",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1\\Views\\TResearch\\MView.cshtml",
-              "RelativeDocumentMoniker": "zd1\\Views\\TResearch\\MView.cshtml",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1\\Views\\TResearch\\MView.cshtml",
-              "RelativeToolTip": "zd1\\Views\\TResearch\\MView.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAFEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T16:23:44.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TAResearchController.cs",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Controllers\\TAResearchController.cs",
-              "RelativeDocumentMoniker": "zd2\\Controllers\\TAResearchController.cs",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Controllers\\TAResearchController.cs",
-              "RelativeToolTip": "zd2\\Controllers\\TAResearchController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:23:44.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T16:23:44.278Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "LettersRouteConstraint.cs",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Constrains\\LettersRouteConstraint.cs",
-              "RelativeDocumentMoniker": "zd2\\Constrains\\LettersRouteConstraint.cs",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Constrains\\LettersRouteConstraint.cs",
-              "RelativeToolTip": "zd2\\Constrains\\LettersRouteConstraint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Title": "LettersMaxRouteConstraint.cs",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Constrains\\LettersMaxRouteConstraint.cs",
+              "RelativeDocumentMoniker": "zd2\\Constrains\\LettersMaxRouteConstraint.cs",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Constrains\\LettersMaxRouteConstraint.cs",
+              "RelativeToolTip": "zd2\\Constrains\\LettersMaxRouteConstraint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:23:44.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T06:37:08.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EmailRouteConstraint.cs",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Constrains\\EmailRouteConstraint.cs",
-              "RelativeDocumentMoniker": "zd2\\Constrains\\EmailRouteConstraint.cs",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Constrains\\EmailRouteConstraint.cs",
-              "RelativeToolTip": "zd2\\Constrains\\EmailRouteConstraint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:23:44.262Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "zd2\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "zd2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T06:41:28.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "zd1\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "zd1\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-21T16:50:32.26Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Program.cs",
-              "RelativeDocumentMoniker": "zd2\\Program.cs",
-              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd2\\Program.cs",
-              "RelativeToolTip": "zd2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:23:44.182Z"
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "zd1\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\3k2s\\PIS\\labs\\lab2b\\zd1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "zd1\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-21T16:50:34.712Z"
             }
           ]
         }

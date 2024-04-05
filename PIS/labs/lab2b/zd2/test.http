@@ -1,0 +1,32 @@
+﻿@hostname=localhost
+@port=7151
+GET https://{{hostname}}:{{port}}/it/12/qwefghhgg
+###
+GET https://{{hostname}}:{{port}}/it/qwes/qwe
+### 2
+GET https://{{hostname}}:{{port}}/it/true/qwe
+###
+GET https://{{hostname}}:{{port}}/it/sss/q23
+###
+POST https://{{hostname}}:{{port}}/it/true/qwe
+### 3
+GET https://{{hostname}}:{{port}}/it/1.2/q2s3
+### 
+GET https://{{hostname}}:{{port}}/it/1.2/q2s3sdsd
+###
+DELETE https://{{hostname}}:{{port}}/it/1.2/q2s3
+### 4
+PUT https://{{hostname}}:{{port}}/it/qwe/120
+###
+PUT https://{{hostname}}:{{port}}/it/12e/120
+###
+PUT https://{{hostname}}:{{port}}/it/sse/210
+
+### 5
+POST https://{{hostname}}:{{port}}/it/smolik.valera@mail.ru
+###
+POST https://{{hostname}}:{{port}}/it/sss
+
+
+
+

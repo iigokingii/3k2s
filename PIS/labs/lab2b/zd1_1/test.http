@@ -1,0 +1,36 @@
+﻿@hostname=localhost
+@port=5139
+
+## Action 1 
+GET http://{{hostname}}:{{port}}/MResearch/M01/1
+###
+GET http://{{hostname}}:{{port}}/MResearch/M01
+###
+GET http://{{hostname}}:{{port}}/MResearch
+###
+GET http://{{hostname}}:{{port}}/
+###
+GET http://{{hostname}}:{{port}}/V2/MResearch/M01
+###
+GET http://{{hostname}}:{{port}}/V3/MResearch/asdsad/M01
+###
+## Action 2
+GET http://{{hostname}}:{{port}}/V2
+###
+GET http://{{hostname}}:{{port}}/V2/MResearch/
+###
+GET http://{{hostname}}:{{port}}/V2/MResearch/M02
+###
+GET http://{{hostname}}:{{port}}/MResearch/M02
+###ttt
+GET http://{{hostname}}:{{port}}/V2/MResearch/
+###
+## Action 3
+GET http://{{hostname}}:{{port}}/V3
+###
+GET http://{{hostname}}:{{port}}/V3/MResearch/asdsad
+###
+GET http://{{hostname}}:{{port}}/V3/MResearch/asdasdasd/M03
+## Action 4
+###
+GET http://{{hostname}}:{{port}}/x

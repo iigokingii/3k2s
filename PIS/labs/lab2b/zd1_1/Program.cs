@@ -21,10 +21,9 @@ app.UseRouting();
 app.UseAuthorization();
 
 //Action1
-
 app.MapControllerRoute(
     name: "mresearch_m01_with_id",
-    pattern: "MResearch/M01/{id:int}",
+    pattern: "MResearch/M01/1",
     defaults: new { controller = "TMResearch", action = "M01" }
 );
 
@@ -91,13 +90,12 @@ app.MapControllerRoute(
     pattern: "V3/MResearch/{string}/M02",
     defaults: new { controller = "TMResearch", action = "M02", str = "" }
 );
-
 //Action 3
 
 app.MapControllerRoute(
     name: "v3",
     pattern: "V3",
-    defaults: new { controller = "TMResearch", action = "M03"}
+    defaults: new { controller = "TMResearch", action = "M03" }
 );
 app.MapControllerRoute(
     name: "v3_mresearch",
@@ -117,5 +115,32 @@ app.MapControllerRoute(
     pattern: "{*uri}",
     defaults: new { controller = "TMResearch", action = "MXX" }
 );
+
+//Action 1,2,3
+
+/*app.MapControllerRoute(
+    name: "V2",
+    pattern: "V2/{controller}/{action}",
+    defaults: new { controller = "TMResearch", action = "M02" });
+
+app.MapControllerRoute(
+    name: "V3",
+    pattern: "V3/{controller}/{parm?}/{action}",
+    defaults: new { controller = "TMResearch", action = "M03" });
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=TMResearch}/{action=M01}/{parm?}");*/
+
+
+//Action 4
+
+/*app.MapControllerRoute(
+    name: "default",
+    pattern: "{*uri}",
+    defaults: new { controller = "TMResearch", action = "MXX" }
+);*/
+
+
 
 app.Run();

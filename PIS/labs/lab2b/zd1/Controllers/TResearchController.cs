@@ -4,12 +4,6 @@ namespace lab2b.Controllers;
 
 public class TResearchController : Controller
 {
-    [HttpGet, Route("/MView")]
-    public IActionResult MView()
-    {
-        return View();
-    }
-
     [
         HttpGet,
         Route("/MResearch/M01/1"),

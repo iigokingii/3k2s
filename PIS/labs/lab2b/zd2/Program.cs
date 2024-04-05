@@ -8,6 +8,7 @@ builder.Services.Configure<RouteOptions>(options =>
 {
     options.ConstraintMap.Add("letters", typeof(LettersRouteConstraint));
     options.ConstraintMap.Add("email", typeof(EmailRouteConstraint));
+    options.ConstraintMap.Add("lettersmax", typeof(LettersMaxRouteConstraint));
 });
 
 var app = builder.Build();
