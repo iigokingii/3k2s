@@ -307,63 +307,77 @@ SELECT * FROM INFORMATION_ABOUT_ORDER;
 				DECLARE @CHILDNODEVALUE hierarchyid;
 				DECLARE @MAXCHILDVALUE hierarchyid;
 
-				-- ѕолучение максимального узла на текущем уровне родительского узла
+				-- максим узел на текущем уровне родительского узла
 				SELECT @MAXCHILDVALUE = MAX(HIERARCHY_COLUMN) 
 					FROM STORAGE 
 						WHERE HIERARCHY_COLUMN.GetAncestor(1) = @PARENTNODEVALUE;
 
 				SET @CHILDNODEVALUE = @PARENTNODEVALUE.GetDescendant(@MAXCHILDVALUE, NULL);
 
-				-- ¬ставка нового узла в таблицу STORAGE
 				INSERT INTO STORAGE (STORAGE_ID, HIERARCHY_COLUMN)
-				VALUES (@STORAGE_ID, @CHILDNODEVALUE);
+					VALUES (@STORAGE_ID, @CHILDNODEVALUE);
 		END
 
 		DROP PROCEDURE ADDCHILDNODE;
 
-		EXEC AddChildNode '/1/2/',7;
+		EXEC AddChildNode '/1/2/',12;
+
 
 		SELECT STORAGE_ID,ADRESS,COUNTRY,CAPACITY,HIERARCHY_COLUMN.ToString() AS NODE_AS_STRING,HIERARCHY_COLUMN AS HIERARCHY_COLUMN_BINARY,LEVEL_COLUMN FROM STORAGE;
 
 	--#4
-		CREATE PROCEDURE MOVECHILDNODES
-		(
-				@CURRENT_PARENT hierarchyid,
-				@NEW_PARENT hierarchyid
-		)
-		AS
-		BEGIN
-				-- —оздаем временную таблицу дл€ хранени€ иерархических узлов, которые нужно переместить
-				CREATE TABLE #TempNodes
-				(
-						Node hierarchyid
-				);
+		CREATE OR ALTER PROCEDURE MOVECHILDNODES(
+    @OldParentNodeValue HIERARCHYID,
+    @NewParentNodeValue HIERARCHYID
+		)AS
+		BEGIN 
+				DECLARE @MaxNodeValue HIERARCHYID;
+				DECLARE @CurrentNode HIERARCHYID;
+				DECLARE @CursorNode CURSOR;
+				DECLARE @ChildNew HIERARCHYID;
 
-				-- ¬ставл€ем во временную таблицу все подчиненные узлы текущего родительского узла
-				INSERT INTO #TempNodes (Node)
-					SELECT HIERARCHY_COLUMN
+				BEGIN TRY
+						SET @CursorNode = CURSOR FOR 
+						SELECT HIERARCHY_COLUMN 
 						FROM STORAGE
-							WHERE HIERARCHY_COLUMN.IsDescendantOf(@CURRENT_PARENT) = 1 AND HIERARCHY_COLUMN != @CURRENT_PARENT;
+						WHERE HIERARCHY_COLUMN.GetAncestor(1) = @OldParentNodeValue 
+						ORDER BY HIERARCHY_COLUMN;
 
-				-- ќбновл€ем значение иерархического столбца дл€ перемещаемых узлов
-				UPDATE STORAGE
-					SET HIERARCHY_COLUMN = HIERARCHY_COLUMN.GetReparentedValue(@CURRENT_PARENT, @NEW_PARENT)
-						WHERE HIERARCHY_COLUMN IN (SELECT Node FROM #TempNodes);
+						OPEN @CursorNode;
 
-				DECLARE @OLDID INT;
-				SELECT @OLDID = STORAGE_ID FROM STORAGE WHERE HIERARCHY_COLUMN = @CURRENT_PARENT;
+						FETCH NEXT FROM @CursorNode INTO @CurrentNode;
+						WHILE @@FETCH_STATUS = 0
+						BEGIN
+    
+				select @ChildNew = @NewParentNodeValue.GetDescendant(MAX(HIERARCHY_COLUMN), NULL)
+				from STORAGE where HIERARCHY_COLUMN.GetAncestor(1) = @NewParentNodeValue;
+           
+								UPDATE STORAGE
+								SET HIERARCHY_COLUMN = HIERARCHY_COLUMN.GetReparentedValue(@CurrentNode, @ChildNew) 
+					WHERE HIERARCHY_COLUMN.IsDescendantOf(@CurrentNode) = 1;
 
-				DELETE STORAGE WHERE STORAGE_ID = @OLDID;
+								FETCH NEXT FROM @CursorNode INTO @CurrentNode;
+						END;
 
-				EXEC AddChildNode @NEW_PARENT, @OLDID;
+						CLOSE @CursorNode;
 
-				-- ”дал€ем временную таблицу
-				DROP TABLE #TempNodes;
-		END
+						PRINT '”злы успешно перемещены.';
+				END TRY
+				BEGIN CATCH
+						PRINT 'ќшибка: Ќевозможно переместить узлы.';
+				END CATCH;
+		END;
+
 		commit;
-		DROP PROCEDURE MOVECHILDNODES;
-
 		BEGIN TRANSACTION
-		EXEC MOVECHILDNODES '/1/', '/2/' ;
+		EXEC MOVECHILDNODES '/2/', '/1/' ;
+		EXEC DISPLAY_NODES_WITH_LEVEL '/';
+
+		SELECT HIERARCHY_COLUMN.ToString()
+						FROM STORAGE
+							WHERE HIERARCHY_COLUMN.IsDescendantOf('/') = 1;
+
 		SELECT STORAGE_ID,ADRESS,COUNTRY,CAPACITY,HIERARCHY_COLUMN.ToString() AS NODE_AS_STRING,HIERARCHY_COLUMN AS HIERARCHY_COLUMN_BINARY,LEVEL_COLUMN FROM STORAGE;
 		ROLLBACK;
+
+
